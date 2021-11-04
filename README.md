@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rishabhrising
+- 📫 Instagram-- rishabhrising
+- 🌞. In the process of learning {basics of c++}
