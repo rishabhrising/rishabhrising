@@ -31,7 +31,3 @@ TensorFlow for AI, ML and Deep Learning.
 CCNAv7: Introduction to Networks — Cisco Networking Academy.
 
 Red Hat System Administration I (RH124).
-
-#### GitHub Stats
-
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhrising&show_icons=true&theme=default&hide_border=true)
